@@ -27,3 +27,4 @@ This integration gives you an example method that reads the data from the json a
 
 You must have .Net version 4.0 or higher.
 Download and Install .Net from: https://www.microsoft.com/net/download/
+Project was created with Visual Studio 2017. You can get it from: https://visualstudio.microsoft.com/vs/
